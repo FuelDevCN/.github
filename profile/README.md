@@ -8,3 +8,8 @@ FuelDevCN是由[Web3Club](https://github.com/Web3-Club)孵化，自主发起的F
 
 [Fuel](https://github.com/fuel-champions/Fuel-Dev-tutorial-CN)
 
+## 中文文档翻译
+
+[fueldev.xyz](https://docs.fueldev.xyz/
+)
+

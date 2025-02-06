@@ -1,7 +1,3 @@
-# FUCK FUEL，WE GOT NOTHING.
-
----
-
 
 
 ## Hi there 👋
